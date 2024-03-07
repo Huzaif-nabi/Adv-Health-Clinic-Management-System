@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    background: yellow;
+    width: 100%;
+}
+
+.navbar{
+    float: left;
+    background: rgb(163, 163, 196);
+    width: 100%;
+    height: 50px;
+
+}
+
+.icon{
+    float: left;
+    padding: 15px;
+
+    
+}
+
+.menu{
+    width: 400px;
+    padding: 15px;
+    float: left;
+    background-color: rgb(38, 137, 137);
+}
+
+ul{
+    float: left;
+}
+
+ul li{
+    
+    list-style: none;
+    float: left;
+    text-decoration: none;
+}
+
+ul li a{
+    text-decoration: none;
+}
