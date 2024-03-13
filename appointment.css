@@ -1,0 +1,14 @@
+.container{
+    height: 450px;
+    width: 100%;
+    background-color: rgb(190, 220, 238);
+}
+
+.content-01{
+    float: left;
+    height: auto;
+    width: auto;
+    border: 1px solid black;
+    margin: 140px 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
